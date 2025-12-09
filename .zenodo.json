@@ -1,0 +1,47 @@
+{
+  "title": "Geo-Inquire Jupyter Notebook at Ligure Testbed",
+  "description": "Jupyter notebooks demonstrating interoperability of different datasets held by different European Research Infrastructure Consortiums such as EPOS and EMSO. This notebook focuses on the Nice-Ligurian Testbed in the Geo-Inquire project, facilitating improved access to scientific research products and services.",
+  "creators": [
+    {
+      "name": "Murphy, Shane",
+      "affiliation": "Ifremer",
+      "orcid": "0000-0003-2795-0463"
+    },
+    {
+      "name": "Vermaere, Stijn",
+      "affiliation": "VLIZ",
+      "orcid": "0000-0003-3143-7072"
+    },
+    {
+      "name": "Garziglia, Sebastien",
+      "affiliation": "Ifremer",
+      "orcid": "0000-0000-0000-0000"
+    },
+    {
+      "name": "Kalligeris, Nikos",
+      "affiliation": "NOA",
+      "orcid": "0000-0001-5198-2073"
+    }
+  ],
+  "keywords": [
+    "EPOS",
+    "EMSO",
+    "interoperability",
+    "sea level monitoring",
+    "piezometric data",
+    "oceanography",
+    "Geo-Inquire"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "communities": [
+    {
+      "identifier": "Geo-INQUIRE"
+    }
+  ],
+  "grants": [
+    {
+      "id": "101058518"
+    }
+  ]
+}
